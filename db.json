@@ -1,24 +1,172 @@
-{
-  "productos": [
-    {
-      "id": 1,
-      "title": "Polo oscuro",
-      "price": 22.22,
-      "description": "Polo para mujer",
-      "category": "mujer",
-      "subcategory": "polos",
-      "image": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1689188992/nawi-shop/w7q0n176veynnob9f4w2.jpg",
-      "count": "Limited"
-    },
-    {
-      "title": "Collar de Oro 18k Laminado y Plata Corazón",
-      "price": 199,
-      "description": "-Collar de plata de 45cm de largo. -Dije con Zircones Rusos en forma de corazón 2.3 cm -Contra argolla de plata con oro 18k laminado -Presentación en caja y bolsa de regalo. El acabado de esta joya lleva una fina lamina de Oro 18k la cual es adherida encima a la joya trabajada en plata 950, esta joya no es bañada y la lámina de oro no se despinta",
-      "category": "joyas-y-accesorios",
-      "subcategory": "oro",
-      "image": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1689212627/nawi-shop/dmgp8tflh3t3htsayz2e.jpg",
-      "count": 10,
-      "id": 2
-    }
-  ]
-}
+[
+	{
+		"id": 1,
+		"title": "Polo oscuro",
+		"price": 22.22,
+		"description": "Polo para mujer",
+		"category": "mujer",
+		"subcategory": "polos",
+		"image": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1689188992/nawi-shop/w7q0n176veynnob9f4w2.jpg",
+		"count": "Limited"
+	},
+	{
+		"title": "Collar de Oro 18k Laminado y Plata Corazón",
+		"price": 199,
+		"description": "-Collar de plata de 45cm de largo. -Dije con Zircones Rusos en forma de corazón 2.3 cm -Contra argolla de plata con oro 18k laminado -Presentación en caja y bolsa de regalo. El acabado de esta joya lleva una fina lamina de Oro 18k la cual es adherida encima a la joya trabajada en plata 950, esta joya no es bañada y la lámina de oro no se despinta",
+		"category": "joyas-y-accesorios",
+		"subcategory": "oro",
+		"image": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1689212627/nawi-shop/dmgp8tflh3t3htsayz2e.jpg",
+		"count": 10,
+		"id": 2
+	},
+	{
+		"title": "Anillo",
+		"price": 120,
+		"description": "Hecho en: Lima -Peru\nTipo: Anillos\nCondición del producto: Nuevo\nGarantía del proveedor: 1 Año. No se repara\nMaterial: Plata\nGénero: Mujer\nOfrecemos diseños únicos, modernos y atemporales para que sus joyas sean únicas y duraderas. Además, ofrecemos una amplia variedad de colores y tamaños para que encuentre la joya perfecta.",
+		"category": "joyas-y-accesorios",
+		"subcategory": "plata",
+		"image": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1689213954/nawi-shop/xknjcioyfvlnqdizf6hp.jpg",
+		"count": 5,
+		"id": 5
+	},
+	{
+		"title": "Parrilla industrial y a gas en Acero inoxidable",
+		"price": 700,
+		"description": "De gran calidad y durabilidad, diseñada para su uso con patas. Parrilla de fierro hundido pesada para tener calor ranurado para carnes, pescados o verduras de asado a la parrilla.\nMedidas: Largo 50 cm| ANCHO: 35cm| Alto 90 cm\nCaracterísticas: \n* Con rejilla de ángulos en forma de V para marcar las carnes\n*Parrilla y parte posterior acero inoxidable \n*Pastas fijas\n* Ideal para jardín, balcón o terraza",
+		"category": "adornos",
+		"subcategory": "no-select",
+		"image": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1689214047/nawi-shop/jmxmce2zig9ry5f3c8es.jpg",
+		"count": 13,
+		"id": 6
+	},
+	{
+		"title": "Pulsera",
+		"price": 60,
+		"description": "Tipo: Pulseras\nGénero: Mujer\nMaterial: Plata\nDimensiones: 11.3mmx7.6mmx10.5mm\nGarantía del proveedor: 1 año\nHecho en: Lima Peru\nCondición del producto: Nuevo",
+		"category": "joyas-y-accesorios",
+		"subcategory": "plata",
+		"image": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1689214245/nawi-shop/r5ze79704ujpnaif3drt.jpg",
+		"count": 15,
+		"id": 7
+	},
+	{
+		"title": "Aretes",
+		"price": 30,
+		"description": "Nuestros accesorios han sido cuidadosamente seleccionados para garantizar la calidad, el diseño y la versatilidad en cada pieza. Ya sea que estés buscando un collar llamativo para una ocasión especial, unos aros elegantes o una lujosa cartera que combine estilo y funcionalidad",
+		"category": "joyas-y-accesorios",
+		"subcategory": "fantasia",
+		"image": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1689214393/nawi-shop/lkecjgb7xy9d6cz0yn8j.jpg",
+		"count": 20,
+		"id": 8
+	},
+	{
+		"title": "Atrapa sueños",
+		"price": 30,
+		"description": "Decoración de jardín, al aire libre, carillón al viento\nCaracterísticas:\nColor: Rustiv Cooper\nMaterial: Hierro\nDimensiones del producto: 6\"L x 6\"W x 27, 5 \"H\n\nDescripción: \n*Disfruta de los sonidos suaves y relajantes de las melodiosa campanitas de este llamador de ángeles.\n* Tiene un excelente diseño y está hecho a mano de calidad.\n* Hecho de metal ",
+		"category": "adornos",
+		"subcategory": "no-select",
+		"image": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1689214359/nawi-shop/bhxqfbw4s6iuq2gtiqhl.jpg",
+		"count": 15,
+		"id": 9
+	},
+	{
+		"title": "Conjunto 2 piezas para mujer casual",
+		"price": 99,
+		"description": "Descripción:\nLa camiseta corta sin manga cuenta con cuello alto, abertura trasera y elástico en la parte inferior, más exclusiva para llevar y se ve favorecedora en cualquier tipo de cuerpo\n El pantalón largo palazo está diseñado para una forma de pierna ancha que es adelgazan te y alargado y la cintura elástico con un cinturón, añadiendo un toque de elegancia. ",
+		"category": "mujer",
+		"subcategory": "no-select",
+		"image": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1689214569/nawi-shop/ptevixlphwxkilmbjutl.jpg",
+		"count": 20,
+		"id": 10
+	},
+	{
+		"title": "Juego de muebles de patio",
+		"price": 2500,
+		"description": "Descripción:\n4 piezas, muebles de exterior, sofá modular de fácil instalación\nEn comparación con el asiento sofá ordinario montado con tres partes, el asiento integrado es más firme y duradero. El juego del sofá de 5 piezas proporciona 4 asientos para satisfacer el uso de  múltiples familiares y amigos. Para mejorar la comodidad, hemos combinado este sofá con cojines de asiento de 3 pulgadas y cojines de respaldo. Además el juego de sofá modular se puede combinar libremente según la ocasión de tu patio, terraza, etc.",
+		"category": "adornos",
+		"subcategory": "no-select",
+		"image": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1689214848/nawi-shop/i2dkbylsegjo2rk8xt9g.jpg",
+		"count": 8,
+		"id": 11
+	},
+	{
+		"title": "Sillón giratorio con acento de terciopelo, para sala de estar, dormitorio ycremoso",
+		"price": 900,
+		"description": "Diseñada con un asiento profundo y acogedor y función giratoria suave, esta silla se mantiene cómoda en cada giro y es lo suficientemente versátil para tu sala de estar o dormitorio.\nConstrucción resistente y materiales certificados: el marco está fabricado por expertos con madera maciza y madera dura. Toda la madera está seca al horno para mayor durabilidad. Suspensión de cincha sintética y espuma de alta densidad de alta calidad con fibra de poliéster que ofrecen comodidad y durabilidad. ",
+		"category": "adornos",
+		"subcategory": "no-select",
+		"image": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1689215308/nawi-shop/e9gyblhw5fpuutnxaklr.jpg",
+		"count": 5,
+		"id": 12
+	},
+	{
+		"title": "Chamarras de lluvia para niños y niñas, ligeras, impermeables, con capucha, rompevientos",
+		"price": 60,
+		"description": "Chaqueta ligera de bloque de color con tela resistente al agua en el exterior y un acogedor forro polar en el interior, lo que ayuda a mantenerlo caliente y seco y no voluminoso. El abrigo impermeable para niños es un equipo versátil para exteriores para otoño, primavera y principios de invierno. Es muy resistente al viento, se utiliza como abrigo de viento para niños, ropa de lluvia o chaqueta de clima frío para niños y niñas.",
+		"category": "ninos",
+		"subcategory": "no-select",
+		"image": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1689215468/nawi-shop/t8744p8lko95gtkzgw30.jpg",
+		"count": 14,
+		"id": 13
+	},
+	{
+		"title": "Harry Potter Pijama para niños pequeños, camisa raglán y pantalones para dormir",
+		"price": 50,
+		"description": "Suave y práctico, estos pijamas Harry Potter están diseñados pensando en los niños. Esta camisa y pantalones Harry Potter no tienen etiqueta, con el logotipo de la marca en las instrucciones de lavado impresas dentro de la camisa. Los pantalones a cuadros y la camisa raglán son perfectos para las noches de verano más frías, hasta las noches de invierno más frías y días como la mañana de Navidad. En estos cómodos pijamas, tu hijo dormirá cómodamente y será libre de soñar con quidditch, pociones, varitas, hechizos y aventuras mágicas",
+		"category": "ninos",
+		"subcategory": "no-select",
+		"image": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1689215642/nawi-shop/slopkixy7fth7mxerf34.jpg",
+		"count": 14,
+		"id": 14
+	},
+  {
+    "title": "Rollo ChomChom, para remover el pelo de perros, gatos, mascotas",
+    "price": 50,
+    "description": "Características: Nailon Quita fácilmente pelo de mascotas No requiere adhesivos ni cinta adhesiva No necesita pilas. 100% reutilizable Respetuoso con el medio ambiente ",
+    "category": "mascota",
+    "subcategory": "no-select",
+    "image": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1689215840/nawi-shop/rtexczsjz5m9dfkmp8nz.jpg",
+    "count": 10,
+    "id": 15
+  },
+  {
+    "title": "Almohadillas para orinar para perros y cachorros con diseño de secado rápido a prueba de fugas para entrenamiento de orinal, absorción resistente",
+    "price": 55,
+    "description": "Dimensiones del producto Tamaño regular, 24 x 23 pulgadas, paquete de 50, azul y blanco Características: Almohadillas para orina de cachorros de absorción de alta resistencia; ideales para entrenamiento de cachorros, perros mayores, viajes en coche y más. El forro de plástico mantiene los suelos a salvo de daños ",
+    "category": "mascota",
+    "subcategory": "no-select",
+    "image": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1689216067/nawi-shop/ahozvz2npg8nt0vxljes.jpg",
+    "count": 15,
+    "id": 16
+  },
+  {
+    "title": "Bolsas para excrementos de perros. , lavanda-aromatizado",
+    "price": 60,
+    "description": "Bolsas extra largas y extra fuertes para acomodar caca de cualquier tamaño. Estas bolsas están diseñadas para adaptarse a nuestro dispensador, o cualquier dispensador de tamaño estándar como un guante.",
+    "category": "mascota",
+    "subcategory": "no-select",
+    "image": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1689216280/nawi-shop/opjjavbsp5fxkojgnu1f.jpg",
+    "count": 15,
+    "id": 17
+  },
+  {
+    "title": "Camisa",
+    "price": 54,
+    "description": "Camisa Color: crema+jade",
+    "category": "varones",
+    "subcategory": "camisas",
+    "image": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1689217319/nawi-shop/ygha3zlypevxtjatfra4.webp",
+    "count": 20,
+    "id": 18
+  },
+  {
+    "title": "Chaleco",
+    "price": 58,
+    "description": "Chaleco acolchado Color: marrón",
+    "category": "varones",
+    "subcategory": "abrigos",
+    "image": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1689217470/nawi-shop/gubs8vvnkbrf00xgqnza.webp",
+    "count": 15,
+    "id": 19
+  }
+]
